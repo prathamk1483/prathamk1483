@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamk1483&label=Profile%20views&color=e70808&style=flat-square" alt="prathamk1483" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamk1483" alt="prathamk1483" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/prathamk1483" target="blank"><img src="https://img.shields.io/twitter/follow/prathamk1483?logo=twitter&style=for-the-badge" alt="prathamk1483" /></a> </p>
 
 - 🌱 I’m currently learning **Express JS, Node JS ,React Js**
